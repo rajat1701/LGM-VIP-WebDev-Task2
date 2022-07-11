@@ -12,7 +12,7 @@ function App() {
   return (
       <>
       <header className="Nav">
-        <h1>LetsGrowMore</h1>
+        <h1>RecFetcher</h1>
         <div className="btn" onClick={getUsers}>
           GET USERS
         </div>
